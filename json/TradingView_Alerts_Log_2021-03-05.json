@@ -1,0 +1,58 @@
+[
+{
+"action":"sell",
+"interval":"15",
+"time":"2021-03-05T08:09:26Z",
+"price ":"47414"
+},{
+"action":"buy",
+"interval":"15",
+"time":"2021-03-05T01:47:55Z",
+"price ":"46809.5"
+},{
+"action":"sell",
+"interval":"15",
+"time":"2021-03-05T00:02:46Z",
+"price ":"48396"
+},{
+"action":"buy",
+"interval":"15",
+"time":"2021-03-04T22:32:48Z",
+"price ":"48146"
+},{
+"action":"sell",
+"interval":"15",
+"time":"2021-03-04T21:52:01Z",
+"price ":"48136"
+},{
+"action":"buy",
+"interval":"15",
+"time":"2021-03-04T21:24:02Z",
+"price ":"48092"
+},{
+"action":"sell",
+"interval":"15",
+"time":"2021-03-04T14:50:14Z",
+"price ":"49891.5"
+},{
+"action":"buy",
+"interval":"15",
+"time":"2021-03-04T10:45:20Z",
+"price ":"49300"
+},{
+"action":"sell",
+"interval":"15",
+"time":"2021-03-04T09:15:01Z",
+"price ":"49936"
+},{
+"action":"buy",
+"interval":"15",
+"time":"2021-03-04T08:00:37Z",
+"price ":"49719.5"
+},{
+"action":"sell",
+"interval":"15",
+"time":"2021-03-04T06:46:11Z",
+"price ":"49551.5"
+}
+]
